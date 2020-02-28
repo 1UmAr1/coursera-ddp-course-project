@@ -1,0 +1,55 @@
+---
+title: "Coursera developing data products"
+author: "Umer Ayoub"
+date: "2/28/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Summary
+This application highlights the countries of the world
+With the help of this application you can check the 
+boarders of a country
+
+
+## Working
+This application is written in web application framework Shiny
+The source code of this application consists of two files : server.R and ui.R
+server.R includes the the server logic of a Shiny web application
+ui.R includes the the user-interface definition, which uses the sidebarLayout template
+The library used in this application is maps and mapdata
+This application is hosted on Rpubs
+
+## Using the App
+Using this application is very easy.
+On the right side of the app you'll see the map of the world.
+You can choose any country to be highlighted with the help of the 
+drow-down list which is located on the left side of the map
+Selected Country will be highlighted in black
+
+## What to give it a try?
+Application :
+Github : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
